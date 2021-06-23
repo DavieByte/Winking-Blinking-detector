@@ -1,2 +1,12 @@
 Due to the size of the data and limitations imposed by github the input data could not be uplaoded, but examples of the data used will be included.
 Aswell as the code used to load the Data prior to the CNN
+
+
+data was saved in the format:
+path:
+\__>dataload.ipynb
+\__>Data
+     \__>closed(inside the before images of closed)
+     \__>open(" " " " " open)
+     \__>left(" " " " " left)
+     \__>right(" " " " " right)
