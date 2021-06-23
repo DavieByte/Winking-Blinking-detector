@@ -1,0 +1,2 @@
+Due to the size of the data and limitations imposed by github the input data could not be uplaoded, but examples of the data used will be included.
+Aswell as the code used to load the Data prior to the CNN
